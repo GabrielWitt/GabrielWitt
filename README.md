@@ -22,19 +22,57 @@ Here are some ideas to get you started:
 
 ## 🚀 Proyectos Destacados / Featured Projects
 
-### 🎮 [MoWi Escape Room](https://github.com/GabrielWitt/mowi-escape-room)
+### 🧑‍💼 [AthosAdmin](https://github.com/GabrielWitt/AthosAdmin)  
+**ES:** Panel de administración web para gestionar servicios, clientes y reservas de la app Athos.  
+**EN:** Web admin dashboard to manage services, clients, and bookings for the Athos app.
+
+🧩 Ionic Web · Firebase Firestore · Autenticación · Cloud Functions
+
+---
+
+### 📱 [athosApp](https://github.com/GabrielWitt/athosApp)  
+**ES:** App móvil para agendar servicios de belleza, ver disponibilidad de profesionales y recibir notificaciones.  
+**EN:** Mobile app to book beauty services, check professional availability, and get notifications.
+
+📲 Ionic Mobile (Android & iOS) · Firebase · Push Notifications
+
+---
+
+### 🎮 [miniGamesApp](https://github.com/GabrielWitt/miniGamesApp)  
+**ES:** App de juegos casuales donde se integran múltiples minijuegos en un solo lugar.  
+**EN:** Casual mini-games app combining several fun games in one experience.
+
+🎲 Ionic-Angular · Firebase · Game logic · Navegación con tabs
+
+---
+
+### 🤖 [Robot Runner](https://github.com/GabrielWitt/Robot-Runner)  
+**ES:** Juego estilo endless runner creado en Unity donde controlas un robot que esquiva obstáculos.  
+**EN:** Endless runner game in Unity where you control a robot dodging obstacles.
+
+🎮 Flutter · Flame game engine · C++ & Dart · Física básica · Obstáculos dinámicos
+
+
+### 🧰 [domesticServicesApp](https://github.com/GabrielWitt/domesticServicesApp)  
+**ES:** Aplicación móvil para gestionar servicios domésticos usando Ionic y Angular.  
+**EN:** Mobile app to manage domestic services built with Ionic and Angular.
+
+🧩 Capacitor · Angular · Ionic Tabs Navigation
+
+---
+
+### 📘 [Ejemplo Caso Práctico 2 II BIM](https://github.com/GabrielWitt/Ejemplo-Caso-Practico-2-II-BIM)  
+**ES:** Proyecto académico demostrando el uso de Ionic en una app móvil básica.  
+**EN:** Academic project showcasing a basic mobile app with Ionic.
+
+🎓 Ionic · Angular · Capacitor
+
+
+### 🎮 [MoWi Escape Room](https://github.com/GabrielWitt/mowi-escape-room) En Construcción / Under Construction
 **ES:** Escape room multijugador con historia dinámica, asesino aleatorio y acertijos cooperativos.  
 **EN:** Multiplayer escape room with dynamic story, random killer, and cooperative puzzles.  
 
 🧠 React Native · Firebase · Firestore · Multiplayer logic
-
----
-
-### 📊 [Finvesto](https://github.com/GabrielWitt/finvesto)
-**ES:** Dashboard de finanzas personales con soporte web/móvil y arquitectura escalable.  
-**EN:** Personal finance dashboard with web/mobile support and scalable architecture.  
-
-💼 Expo · Zustand · TypeScript · Monorepo · Firebase
 
 ---
 <!--
