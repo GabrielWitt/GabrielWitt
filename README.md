@@ -52,23 +52,9 @@ Here are some ideas to get you started:
 
 🎮 Flutter · Flame game engine · C++ & Dart · Física básica · Obstáculos dinámicos
 
-
-### 🧰 [domesticServicesApp](https://github.com/GabrielWitt/domesticServicesApp)  
-**ES:** Aplicación móvil para gestionar servicios domésticos usando Ionic y Angular.  
-**EN:** Mobile app to manage domestic services built with Ionic and Angular.
-
-🧩 Capacitor · Angular · Ionic Tabs Navigation
-
 ---
 
-### 📘 [Ejemplo Caso Práctico 2 II BIM](https://github.com/GabrielWitt/Ejemplo-Caso-Practico-2-II-BIM)  
-**ES:** Proyecto académico demostrando el uso de Ionic en una app móvil básica.  
-**EN:** Academic project showcasing a basic mobile app with Ionic.
-
-🎓 Ionic · Angular · Capacitor
-
-
-### 🎮 [MoWi Escape Room](https://github.com/GabrielWitt/mowi-escape-room) En Construcción / Under Construction
+### 🎮 [MoWi Escape Room](https://github.com/GabrielWitt/mowi-escape-room) (En Construcción / Under Construction)
 **ES:** Escape room multijugador con historia dinámica, asesino aleatorio y acertijos cooperativos.  
 **EN:** Multiplayer escape room with dynamic story, random killer, and cooperative puzzles.  
 
@@ -87,7 +73,7 @@ Here are some ideas to get you started:
 
 ## 🧰 Stack Técnico / Tech Stack
 
-- ⚛️ React, React Native, Expo, Angular
+- ⚛️ Ionic, React, React Native, Angular
 - 🔥 Firebase (Auth, Firestore), Node.js, .NET (básico/basic)
 - 🧪 Jest, Playwright, GitHub Actions
 - 📦 Nx, TurboRepo, Capacitor, Cordova
