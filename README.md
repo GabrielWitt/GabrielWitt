@@ -54,6 +54,14 @@ Here are some ideas to get you started:
 
 ---
 
+### 🧠 [design-patterns-ts](https://github.com/GabrielWitt/design-patterns-ts)  
+**ES:** Ejemplos prácticos de patrones de diseño clásicos como Singleton, Factory, Observer y Strategy, escritos en TypeScript con comentarios bilingües.  
+**EN:** Practical examples of classic design patterns like Singleton, Factory, Observer, and Strategy, written in TypeScript with bilingual comments.
+
+🧱 TypeScript · Node.js · Arquitectura · Patrón de diseño · Portafolio técnico
+
+---
+
 ### 🎮 [MoWi Escape Room](https://github.com/GabrielWitt/mowi-escape-room) (En Construcción / Under Construction)
 **ES:** Escape room multijugador con historia dinámica, asesino aleatorio y acertijos cooperativos.  
 **EN:** Multiplayer escape room with dynamic story, random killer, and cooperative puzzles.  
