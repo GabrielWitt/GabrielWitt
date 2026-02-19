@@ -1,4 +1,4 @@
-<# Gabriel Witt  
+# Gabriel Witt  
 Frontend & UI Software Developer | React | Scalable Web Systems  
 
 Quito, Ecuador  
@@ -18,9 +18,9 @@ I specialize in transforming complex business requirements and UI/UX mockups int
 - TypeScript
 - React
 
-Strong experience integrating frontend systems with PHP architectures, REST APIs, and cloud-based services.
+Strong experience integrating frontend systems with REST APIs, Firebase services, and PHP-based systems.  
 
-I am committed to technical excellence, clean architecture, and building technology that creates positive impact.
+I focus on clean architecture, maintainable UI systems, performance optimization, and delivering reliable production-ready applications.
 
 ---
 
@@ -31,77 +31,142 @@ I am committed to technical excellence, clean architecture, and building technol
 - JavaScript / TypeScript
 - HTML5 / CSS3
 - Responsive Design
-- Web Accessibility
+- UX Implementation from mockups
 - Component-based architecture
-- Material UI
-- UX implementation from Figma mockups
+- State management (Context / Redux patterns)
 
-### Backend Collaboration
-- PHP (WordPress / Custom systems)
+### Backend & Integration Experience
 - REST API integrations
-- Firebase
-- SQL Databases
+- Firebase (Auth, Firestore, Functions)
+- Government & banking API integrations
+- Secure payment gateways (Stripe, bank integrations)
+- SQL & NoSQL data flows
 
 ### Engineering Practices
-- Clean Code principles
-- Agile (Scrum / Kanban)
-- Unit testing
-- Git workflows
-- Performance optimization
+- Clean Code & Modular Architecture
+- API abstraction layers
+- Performance optimization (caching & batching strategies)
+- CI/CD workflows
+- Agile collaboration
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🔹 Digital Insurance Self-Service Platform
-Angular-based SPA integrating:
+---
 
-- National ID validation APIs
+### 🔹 Portfolio (React + Architecture Showcase)
+**Repository:**  
+https://github.com/GabrielWitt/portfolio
+
+Modern bilingual portfolio built with:
+
+- React
+- Modular component structure
+- Internationalization (EN / ES)
+- Dynamic modal architecture
+- Clean separation of concerns
+
+Highlights:
+- Structured content system
+- Reusable components
+- Scalable project architecture
+- Resume download logic via custom hook
+
+---
+
+### 🔹 React Feature Flag Demo
+**Repository:**  
+https://github.com/GabrielWitt/react-feature-flag-demo
+
+Frontend architecture demo showcasing:
+
+- Feature-based folder structure
+- Context-based state management
+- Clean separation of UI and logic
+- Scalable toggle/feature control pattern
+
+Demonstrates production-level React structuring principles.
+
+---
+
+### 🔹 Digital Insurance Platform (Angular SPA)
+**Repository:**  
+https://github.com/GabrielWitt/challenge-angular-nttdata
+
+Built a secure single-page application integrating:
+
+- National ID APIs
 - Vehicle registry APIs
-- Secure banking payment gateway
+- Payment gateway integration
 - Token-based validation system
 
-Impact:
-- Reduced customer service turnaround time by 40%
-- Delivered secure end-to-end digital insurance flow
+Focused on:
+- Secure data flow
+- Real-time validation
+- Clean UI architecture
+- Enterprise-style integration patterns
 
 ---
 
-### 🔹 Dvora Mobile Ecosystem
-Property management platform focused on UI consistency and performance optimization.
+### 🔹 Instagram Clone (React Practice)
+**Repository:**  
+https://github.com/GabrielWitt/my-instagram-clone
 
-- Led UI development
-- Implemented performance optimizations (+30%)
-- Reduced API calls by 60%
-- Mentored distributed engineering team
+React-based UI clone demonstrating:
+
+- Component architecture
+- State management
+- Reusable UI patterns
+- Modern CSS layout
+
+Focused on frontend structure and UI composition.
 
 ---
 
-### 🔹 HabitsAI Health Platform
-Health-tech MVP focused on real-time data synchronization and structured UI dashboards.
+### 🔹 Habits Demo (Ionic + Firebase)
+**Repository:**  
+https://github.com/GabrielWitt/HabitsDemoIonic
 
-- Delivered MVP in 4 weeks
-- Built real-time reporting system
-- Implemented modular UI components
+Health-tech MVP prototype featuring:
+
+- Real-time Firebase synchronization
+- Modular UI components
+- Performance-oriented data updates
+- Cloud Functions backend logic
+
+---
+
+### 🔹 Design Patterns in TypeScript
+**Repository:**  
+https://github.com/GabrielWitt/design-patterns-ts
+
+Practical implementation of:
+
+- Singleton
+- Factory
+- Observer
+- Strategy
+
+Demonstrates architectural thinking and OOP principles applied to TypeScript.
 
 ---
 
 ## 🤝 Mission & Values
 
-I believe technology should serve people.
+I believe technology should serve people and communities.
 
-I am committed to:
-- Integrity in engineering
-- Respectful collaboration
-- Excellence in delivery
-- Building systems that positively impact communities
+I strive to:
+
+- Build accessible, user-centered web experiences  
+- Write maintainable and scalable code  
+- Deliver reliable solutions aligned with real-world needs  
+- Collaborate respectfully in distributed teams  
 
 ---
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/gabrielwitt  
-GitHub: github.com/GabrielWitt  
-Portfolio: portafoliogabrodev.web.app
-
-
+LinkedIn: https://linkedin.com/in/gabrielwitt  
+GitHub: https://github.com/GabrielWitt  
+Portfolio: https://portafoliogabrodev.web.app
